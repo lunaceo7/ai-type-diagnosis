@@ -1,0 +1,1 @@
+# ai-type-diagnosis
